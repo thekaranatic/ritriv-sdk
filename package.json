@@ -1,0 +1,16 @@
+{
+    "name": "ritriv-sdk",
+    "version": "1.0.0",
+    "description": "JavaScript SDK for RITRIV - Geo-Adaptive Lost & Found Alert System",
+    "main": "src/index.js",
+    "type": "module",
+    "keywords": [
+      "sdk",
+      "geo-alert",
+      "lost-and-found",
+      "ritriv"
+    ],
+    "author": "Karan Kakati & Team",
+    "license": "MIT"
+  }
+  
